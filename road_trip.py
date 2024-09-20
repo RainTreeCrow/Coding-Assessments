@@ -1,5 +1,3 @@
-import sys
-
 distances = {}
 
 line = input()

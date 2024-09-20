@@ -1,5 +1,3 @@
-import sys
-
 common_list = []
 line = input()
 
